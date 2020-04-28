@@ -5,9 +5,6 @@ date: "4/28/2020"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 
 ### Here are the data for the project:
