@@ -16,7 +16,6 @@ Sub_test <- read.table("./UCI HAR Dataset/test/subject_test.txt")
 
 variable_names <- read.table("./UCI HAR Dataset/features.txt")
 
-
 activity_labels <- read.table("./UCI HAR Dataset/activity_labels.txt")
 
 X_total <- rbind(X_train, X_test)
